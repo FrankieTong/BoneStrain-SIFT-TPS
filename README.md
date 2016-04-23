@@ -8,7 +8,7 @@ This README is a preliminary draft for the instructions to setup and run the alg
 
 This repository is for the C++ code used to perform Scale Invarient Feature Transform (SIFT) for feature finding and matching as well as the Thin Plate Splines (TPS) method for strain calculation.
 
-Version: (Last Edited): April 20, 2016
+Version: (Last Edited): April 23, 2016
 
 -----------------------
 
@@ -142,4 +142,4 @@ Other examples for the configuration of keypoint files and vector field configur
 
 ### Who do I talk to? ###
 
-Repo Owner: Frankie (Hoi-Ki) Tong <hoiki.tong@mail.utoronto.ca\>
+Repo Owner: Frankie (Hoi-Ki) Tong <frankietong@hotmail.com\>
