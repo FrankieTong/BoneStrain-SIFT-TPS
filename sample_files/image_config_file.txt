@@ -1,0 +1,10 @@
+//Contains image configuration parameters
+
+PixelType float
+PixelDimensionality 1
+ImageDimensionality 2
+DimensionSize 50 50 50
+SpacingSize 0.002 0.002 0.002
+Origin 0 0 0
+HeaderSize 0
+ByteOrder little

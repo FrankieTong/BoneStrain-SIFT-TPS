@@ -1,0 +1,17 @@
+//Contains distance values of matched points:
+
+0.002
+0.002
+0
+0.002
+0
+0
+0
+0.002
+0.002
+0.004
+0
+0
+0.002
+0.008
+
